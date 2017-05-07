@@ -1,0 +1,17 @@
+.page-content {
+    height: auto !important;
+    min-height: 500px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border: 1px solid gray;
+    background: rgba(224, 255, 255, 0.7);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-bottom: 170px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+body {
+    background: url("../images/main_background.jpg");
+}

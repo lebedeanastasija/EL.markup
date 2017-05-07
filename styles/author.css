@@ -1,0 +1,32 @@
+.register-form {
+    position: relative;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 120px;
+    background: dimgray;
+    height: 300px;
+    width: 400px;
+    padding: 15px;
+    border-radius: 10px;
+    color: black;
+}
+
+.register-form input {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.register-btn {
+    background: aquamarine;
+    margin-top: 30px;
+}
+
+.register-form-title {
+    text-align: center;
+    padding-bottom: 20px;
+    color: aquamarine;
+}
